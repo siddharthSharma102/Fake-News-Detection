@@ -17,10 +17,12 @@ Thanks for visiting!
 **1.** Adam <br>
 
 ### DATASET USED:
-Due to the size of dataset size I have uploaded it on google drive, link to the drive is given below.
+Due to the size of dataset size I have uploaded it on google drive, link to the drive is given below-
+<a href="https://drive.google.com/drive/folders/11eV4CmH3KAMpL29KrjOqUjUFPIMX871P?usp=sharing">ForDatasets Click Here</a>
 
 ### GloVE WORD EMBEDDING:
-Due to the size of dataset size I have uploaded it on google drive, link to the drive is given below.
+Due to the size of dataset size I have uploaded it on google drive, link to the drive is given below-
+<a href="https://drive.google.com/drive/folders/11eV4CmH3KAMpL29KrjOqUjUFPIMX871P?usp=sharing">For GloVE file Click Here</a>
 
 
 ### SOMETING ABOUT THE PROJECT:
